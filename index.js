@@ -1,2 +1,4 @@
 require('@babel/register');
-require('./src/main');
+// require('./iam');
+require('./Gateway/index');
+
