@@ -1,3 +1,3 @@
 require('@babel/register');
-require('./Gateway');
+require('./loader');
 
